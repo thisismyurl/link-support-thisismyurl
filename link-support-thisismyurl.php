@@ -9,7 +9,7 @@
  * Description:         The ultimate suite for link management: Custom Link Post Type with Meta Fields, Force New Tab, SEO support, Internal Link indicators, and Heatmap Analytics.
  * Tags:                links, seo, internal-links, badges, analytics, heatmap, security, exit-monitor, external-links, target-blank
  * 
- * Version:             1.26010212
+ * Version:             1.26010216
  * Requires at least:   6.0
  * Requires PHP:        7.4
  * 

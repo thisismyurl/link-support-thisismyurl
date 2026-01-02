@@ -7,7 +7,7 @@ Tags: links, external links, nofollow, seo, target blank, link support
 Requires at least: 6.0
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.26010212
+Stable tag: 1.26010216
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 GitHub Plugin URI: https://github.com/thisismyurl/thisismyurl-link-support
@@ -41,6 +41,213 @@ No. [cite: 17] The plugin uses the `the_content` filter to modify the output of 
 Yes. [cite: 1] Since this plugin utilizes the Shared Core Library, it shares resources and a consistent UI with our WebP, SVG, and HEIC support tools. [cite: 1]
 
 == Changelog ==
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via link-support-thisismyurl\core\assets
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-ajax.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\assets\shared-admin.js
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010216 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via link-support-thisismyurl\readme.txt
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010215 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010215 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\2682333820516292531891922458163187249407.ico
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010214 =
+* Core hierarchy updated via Initial Launch
+
+= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010214 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\assets\shared-admin.js
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\assets
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-admin.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\desktop.ini
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-core.php
+
+= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core
+
+= 1.26010213 =
+* Core hierarchy updated via core\class-timu-ajax.php
+
+= 1.26010213 =
+* Core hierarchy updated via Initial Launch
+
+= 1.26010213 =
+* Core hierarchy updated via Initial Script Launch
 
 = 1.26010212 =
 * TIMU_Core updated to version 1.26010212
