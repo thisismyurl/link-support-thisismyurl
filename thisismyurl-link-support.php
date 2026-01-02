@@ -2,7 +2,7 @@
 /**
  * Author:              Christopher Ross
  * Author URI:          https://thisismyurl.com/?source=thisismyurl-link-support
- * Plugin Name:         Globally manage link behavior, including nofollow and target attributes.
+ * Plugin Name:         Link Support by thisismyurl.com
  * Plugin URI:          https://thisismyurl.com/thisismyurl-link-support/?source=thisismyurl-link-support
  * Donate link:         https://thisismyurl.com/donate/?source=thisismyurl-link-support
  * 
