@@ -131,11 +131,11 @@ class TIMU_Link_Support extends TIMU_Core_v1 {
         switch ( $column ) {
             case 'dest_url':
                 $url = get_post_meta( $post_id, '_timu_link_url', true );
-                echo $url ? '<a href="' . esc_url( $url ) . '" target="_blank">' . esc_html($url) . '</a>' : '—';
+                echo $url ? '<a href="' . esc_url( $url ) . '" target="_blank">' . esc_html($url) . '</a>' : '?';
                 break;
             case 'dest_age':
                 $url = get_post_meta( $post_id, '_timu_link_url', true );
-                echo $url ? esc_html( $this->get_destination_age( $url ) ) : '—';
+                echo $url ? esc_html( $this->get_destination_age( $url ) ) : '?';
                 break;
             case 'is_active':
                 $active = get_post_meta( $post_id, '_timu_auto_replace', true );
@@ -391,7 +391,7 @@ class TIMU_Link_Support extends TIMU_Core_v1 {
                     $size = $this->get_remote_file_size($url); if($size) $new_inner .= ' ('.$size.')';
                 }
                 if ( ! empty($options['favicon_mode']) && $host ) $new_inner = '<img src="https://www.google.com/s2/favicons?domain='.$host.'" style="width:16px; margin-right:5px; vertical-align:middle;">' . $new_inner;
-                if ( ! empty($options['external_icon']) ) $new_inner .= ' ↗';
+                if ( ! empty($options['external_icon']) ) $new_inner .= ' ?';
                 $link_html = str_replace('>'.$inner_txt.'</a>', '>'.$new_inner.'</a>', $link_html);
                 if ( ! empty($options['new_tab']) ) { $link_html = str_replace('<a ', '<a target="_blank" ', $link_html); }
             } else {

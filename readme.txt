@@ -19,7 +19,7 @@ Globally manage external link behavior, including nofollow and target attributes
 
 **Link Support** is a lightweight, professional-grade utility designed to manage how your website interacts with external destinations. [cite: 2, 3] It provides a global way to manage external links by automatically adding attributes like `target="_blank"`, `rel="nofollow"`, or security-focused tags like `noopener noreferrer`. [cite: 3]
 
-Managing external links is a fundamental skill for any webmaster or developer concerned with "Link Equity" and site authority. [cite: 6, 7] This plugin provides the technical tools required to master your outgoing traffic without an "Integration Tax," empowering you to direct your site's authority exactly where it belongs—into your own content. [cite: 7, 8]
+Managing external links is a fundamental skill for any webmaster or developer concerned with "Link Equity" and site authority. [cite: 6, 7] This plugin provides the technical tools required to master your outgoing traffic without an "Integration Tax," empowering you to direct your site's authority exactly where it belongs?into your own content. [cite: 7, 8]
 
 This version is built upon the **TIMU Shared Core Library**, ensuring:
 * **Clean Code & Security:** Centralized sanitization and updater logic. [cite: 9]
