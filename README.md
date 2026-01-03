@@ -28,4 +28,4 @@ Yes. Since this plugin utilizes the Shared Core Library, it shares resources and
 
 
 ---
-Â© 2026 [thisismyurl](https://thisismyurl.com)
+([char]0x00A9) 2026 [thisismyurl](https://thisismyurl.com)
