@@ -4,12 +4,12 @@
  * Author URI:          https://thisismyurl.com/?source=link-support-thisismyurl
  * Plugin Name:         Link Support by thisismyurl.com
  * Plugin URI:          https://thisismyurl.com/link-support-thisismyurl/?source=link-support-thisismyurl
- * Donate link:         https://thisismyurl.com/donate/?source=link-support-thisismyurl
+ * Donate link:         https://thisismyurl.com/link-support-thisismyurl/#register?source=link-support-thisismyurl
  * 
  * Description:         The ultimate suite for link management: Custom Link Post Type with Meta Fields, Force New Tab, SEO support, Internal Link indicators, and Heatmap Analytics.
  * Tags:                links, seo, internal-links, badges, analytics, heatmap, security, exit-monitor, external-links, target-blank
  * 
- * Version:             1.26010217
+ * Version: 1.260102
  * Requires at least:   6.0
  * Requires PHP:        7.4
  * 

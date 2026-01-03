@@ -1,13 +1,13 @@
 === Link Support by thisismyurl.com ===
 Contributors: thisismyurl
-Donate link: https://thisismyurl.com/donate/
+Donate link: https://thisismyurl.com/link-support-thisismyurl/#register
 Author: thisismyurl
 Author URI: https://thisismyurl.com/
 Tags: links, external links, nofollow, seo, target blank, link support
 Requires at least: 6.0
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.26010217
+Stable tag: 1.260102
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 GitHub Plugin URI: https://github.com/thisismyurl/thisismyurl-link-support
@@ -42,287 +42,35 @@ Yes. [cite: 1] Since this plugin utilizes the Shared Core Library, it shares res
 
 == Changelog ==
 
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via link-support-thisismyurl\core\assets
-
-= 1.26010217 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
-* Core hierarchy updated via link-support-thisismyurl\core\assets
-
-= 1.26010217 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010217 =
+= 1.260102 =
+* Core hierarchy updated via link-support-thisismyurl\link-support-thisismyurl.php
+* Core hierarchy updated via link-support-thisismyurl\core\icons\original icons\code-ideas.png
 * Core hierarchy updated via Initial Launch
-
-= 1.26010216 =
-* Core hierarchy updated via Initial Launch
-
-= 1.26010216 =
-* Core hierarchy updated via Initial Launch
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via link-support-thisismyurl\core\assets
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-ajax.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\assets\shared-admin.js
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010216 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via link-support-thisismyurl\readme.txt
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010215 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010215 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010214 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
 * Core hierarchy updated via link-support-thisismyurl\core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
+* Core hierarchy updated via link-support-thisismyurl\core\icons\default.ico
+* Core hierarchy updated via core
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-admin.php
+* Core hierarchy updated via link-support-thisismyurl\core\class-timu-ajax.php
+* Core hierarchy updated via link-support-thisismyurl\readme.txt
 * Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via link-support-thisismyurl\core\2682333820516292531891922458163187249407.ico
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
 * Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010214 =
-* Core hierarchy updated via Initial Launch
-
-= 1.26010214 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010214 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\assets\shared-admin.js
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
 * Core hierarchy updated via link-support-thisismyurl\core\assets
+* Core hierarchy updated via link-support-thisismyurl\read
+* Core hierarchy updated via link-support-thisismyurl\core
+* Core hierarchy updated via link-support-thisismyurl\core
+* Core hierarchy updated via link-support-thisismyurl\core
 
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010213 =
 * Core hierarchy updated via link-support-thisismyurl\core\class-timu-processor.php
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-admin.php
-
-= 1.26010213 =
+* Core hierarchy updated via link-support-thisismyurl\core\class
 * Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core\desktop.ini
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-core.php
-
-= 1.26010213 =
-* Core hierarchy updated via link-support-thisismyurl\core
-
-= 1.26010213 =
-* Core hierarchy updated via core\class-timu-ajax.php
-
-= 1.26010213 =
-* Core hierarchy updated via Initial Launch
-
-= 1.26010213 =
 * Core hierarchy updated via Initial Script Launch
-
-= 1.26010212 =
 * TIMU_Core updated to version 1.26010212
-
-= 1.26010212 =
 * TIMU_Core updated to version 1.26010212
-
-= 1.26010212 =
 * TIMU_Core updated to version 1.26010212
-
-= 1.26010212 =
 * TIMU_Core updated to version 1.26010212
-
-= 1.260101 =
 * Renamed plugin from "External Link Control" to "Link Support".
-* Refactored to utilize the TIMU Shared Core Library for better performance and security.
-* Updated Admin UI to use the standardized TIMU Card and Switch system. [cite: 12, 24]
-* Moved settings page location to Tools > Link Support for better workflow integration. [cite: 16]
-
-= 1.251231 =
+* Moved settings page location to Tools > Link Support for
 * Initial release as External Link Control. [cite: 26]
 * Basic regex link processing for target and nofollow attributes. [cite: 26]
 
-== Upgrade Notice ==
-
 = 1.260101 =
-This major update introduces the Shared Core Library architecture and a cleaner administrative interface. Highly recommended for all users to ensure long-term compatibility.
